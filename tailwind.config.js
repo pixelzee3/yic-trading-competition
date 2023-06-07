@@ -2,7 +2,16 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {},
+    fontFamily: {
+      sans: ['Nunito', 'sans-serif'],
+      montserrat: ['Montserrat', 'sans-serif']
+    },
+    extend: {
+      colors: {
+        signature: '#5CE0E5',
+        background: '#020203',
+      },
+    },
   },
   plugins: [],
 }
