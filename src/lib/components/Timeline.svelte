@@ -70,5 +70,5 @@
       </div>
     </div>
   </div>
-  <SignUpButton class="mt-4 md:mt-8" />
+  <SignUpButton class="mt-4 md:mt-8" signature />
 </Block>

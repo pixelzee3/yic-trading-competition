@@ -30,6 +30,6 @@
     <li>2nd-3rd place: IDR 500,000</li>
   </ul>
   <div class="flex justify-center mt-4 md:mt-8">
-    <SignUpButton />
+    <SignUpButton signature />
   </div>
 </Block>

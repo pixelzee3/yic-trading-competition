@@ -33,5 +33,5 @@
       resulting from participation.
     </li>
   </ul>
-  <SignUpButton class="mt-4 md:mt-8" />
+  <SignUpButton class="mt-4 md:mt-8" signature />
 </Block>

@@ -1,5 +1,6 @@
 <script>
   let className = '';
+  export let signature = false;
   export { className as class };
   import Button from './Button.svelte';
   function onclick() {
@@ -7,4 +8,4 @@
   }
 </script>
 
-<Button {onclick} class={className}>Sign up</Button>
+<Button {onclick} class={className} {signature}>Sign up</Button>
