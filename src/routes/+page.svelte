@@ -6,6 +6,10 @@
   import Timeline from '$lib/components/Timeline.svelte';
 </script>
 
+<svelte:head>
+  <title>Youth Investors Club Trading Competition</title>
+</svelte:head>
+
 <Hero />
 <Prizes />
 <Timeline />
