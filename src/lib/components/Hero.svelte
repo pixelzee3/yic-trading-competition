@@ -24,7 +24,7 @@
   <!-- Actual header content -->
   <Nav />
   <header class="py-52">
-    <Block>
+    <Block novpadding>
       <h1 class="leading-8 drop-shadow-2xl"><span class="text-2xl">Youth Investors Club</span><br><span class="text-5xl md:text-6xl font-bold text-signature">Trading Competition</span></h1>
     </Block>
   </header>

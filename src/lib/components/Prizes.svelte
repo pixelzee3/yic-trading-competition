@@ -2,7 +2,7 @@
   import Block from '$lib/components/Block.svelte';
 </script>
 
-<Block vpadding>
+<Block>
   <h2 class="leading-10 lg:leading-[75px] text-center tracking-widest">
     <span class="font-light md:text-lg">Total prize pool of:</span><br /><span
       class="font-bold text-3xl md:text-4xl lg:text-5xl">IDR 50,000,000</span
