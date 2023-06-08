@@ -1,5 +1,6 @@
 <script>
   import Block from '$lib/components/Block.svelte';
+  import SignUpButton from '$lib/components/SignUpButton.svelte';
 </script>
 
 <Block>
@@ -28,4 +29,7 @@
     <li>1st place: IDR 1,000,000</li>
     <li>2nd-3rd place: IDR 500,000</li>
   </ul>
+  <div class="flex justify-center mt-4 md:mt-8">
+    <SignUpButton />
+  </div>
 </Block>
