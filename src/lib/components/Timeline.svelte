@@ -57,7 +57,7 @@
         <!-- <p class="text-gray-500">Description 4</p> -->
       </div>
 
-      <div class="flex justify-between items-start mb-8 md:mb-16">
+      <div class="flex justify-between items-start md:mb-16">
         <div class="flex items-center">
           <div class="bg-signature rounded-full h-6 w-6 z-10" />
           <div class="ml-4">
