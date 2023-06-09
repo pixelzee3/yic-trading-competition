@@ -30,7 +30,7 @@
           <div class="bg-signature rounded-full h-6 w-6 z-10" />
           <div class="ml-4">
             <h3 class="font-bold">Closing Registration</h3>
-            <p class="text-gray-500">9 July 2023</p>
+            <p class="text-gray-500">1 August 2023</p>
           </div>
         </div>
         <!-- <p class="text-gray-500">Description 2</p> -->
@@ -41,7 +41,7 @@
           <div class="bg-signature rounded-full h-6 w-6 z-10" />
           <div class="ml-4">
             <h3 class="font-bold">Opening Ceremony</h3>
-            <p class="text-gray-500">26 August 2023</p>
+            <p class="text-gray-500">2 September 2023</p>
           </div>
         </div>
         <!-- <p class="text-gray-500">Description 3</p> -->
@@ -52,7 +52,7 @@
           <div class="bg-signature rounded-full h-6 w-6 z-10" />
           <div class="ml-4">
             <h3 class="font-bold text-signature">Competition</h3>
-            <p class="text-gray-500">28 August - 2 October 2023</p>
+            <p class="text-gray-500">4 September - 9 October 2023</p>
           </div>
         </div>
         <!-- <p class="text-gray-500">Description 4</p> -->
@@ -63,7 +63,7 @@
           <div class="bg-signature rounded-full h-6 w-6 z-10" />
           <div class="ml-4">
             <h3 class="font-bold">Closing Ceremony</h3>
-            <p class="text-gray-500">3 October 2023</p>
+            <p class="text-gray-500">10 October 2023</p>
           </div>
         </div>
         <p class="text-gray-500">Date is subject to change</p>
