@@ -8,8 +8,11 @@
   <div class="mt-4 md:mt-8">
     <h3 class="font-bold textl-lg md:text-2xl">What is "trading"?</h3>
     <p class="md:text-xl">
-      A maximum of one top up is allowed during the course of the competition
-      and will not be counted towards return.
+      Trading refers to the buying and selling of financial securities such as
+      stocks, bonds, options, or commodities with the aim of generating profit
+      from short-term price fluctuations. Traders actively participate in the
+      market by executing transactions based on their analysis of market trends,
+      company performance, and other relevant factors.
     </p>
     <h3 class="font-bold textl-lg md:text-2xl mt-4 md:mt-6">
       What exactly is a "trading competition"?
