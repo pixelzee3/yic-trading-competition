@@ -4,7 +4,7 @@
   export { className as class };
   import Button from './Button.svelte';
   function onclick() {
-    window.open('https://youtu.be/dQw4w9WgXcQ', '__blank');
+    window.open('https://forms.gle/wNGic7o7ViNqgjYp9', '__blank');
   }
 </script>
 
