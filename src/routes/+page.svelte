@@ -1,4 +1,5 @@
 <script>
+  import Footer from '$lib/components/Footer.svelte';
   import Hero from '$lib/components/Hero.svelte';
   import Prizes from '$lib/components/Prizes.svelte';
   import Requirements from '$lib/components/Requirements.svelte';
@@ -15,3 +16,4 @@
 <Timeline />
 <Requirements />
 <RulesAndRegulations />
+<Footer />
