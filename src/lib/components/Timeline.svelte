@@ -30,7 +30,7 @@
           <div class="bg-signature rounded-full h-6 w-6 z-10" />
           <div class="ml-4">
             <h3 class="font-bold">Closing Registration</h3>
-            <p class="text-gray-500">1 August 2023</p>
+            <p class="text-gray-500">28 August 2023</p>
           </div>
         </div>
         <!-- <p class="text-gray-500">Description 2</p> -->
