@@ -5,6 +5,4 @@
   import Button from './Button.svelte';
 </script>
 
-<a href="/signup">
-  <Button class={className} {signature}>Sign up</Button>
-</a>
+<Button class={className} {signature} href="/signup">Sign up</Button>
