@@ -1,10 +1,10 @@
 <script>
   import Nav from '$lib/components/Nav.svelte';
   function newOnClick() {
-    window.open('https://forms.gle/wNGic7o7ViNqgjYp9', '__blank');
+    window.open('https://forms.gle/wNGic7o7ViNqgjYp9', '__blank')?.focus();
   }
   function existingOnClick() {
-    window.open('https://forms.gle/4FyDGVEfHJQfw3d28', '__blank');
+    window.open('https://forms.gle/4FyDGVEfHJQfw3d28', '__blank')?.focus();
   }
 </script>
 

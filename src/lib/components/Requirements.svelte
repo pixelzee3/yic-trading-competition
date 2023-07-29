@@ -19,11 +19,6 @@
           >minimum of four transactions</bold
         > have to be done in the course of the competition.
       </li>
-      <li>
-        Maximum H-5, participants are required to <bold
-          class="font-bold text-signature">empty the portfolio</bold
-        > (applies to accounts who still have a portfolio).
-      </li>
     </ol>
   </div>
 </Block>
